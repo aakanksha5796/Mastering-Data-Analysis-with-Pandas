@@ -23,14 +23,6 @@ By the end of this project, you will have mastered:
 - Defining and manipulating Pandas Series.
 - Data analysis and manipulation in Pandas and Python.
 
-## Files and Structure
-
-This repository contains:
-
-- `project_notebook.ipynb`: The Jupyter notebook with all the hands-on exercises, code examples, and explanations.
-- `data/`: A folder containing any datasets used in the project (if applicable).
-- `README.md`: This file.
-
 ## Prerequisites
 
 To run this project successfully, you should have the following installed:
@@ -39,13 +31,4 @@ To run this project successfully, you should have the following installed:
 - Pandas library (`pip install pandas`)
 - Jupyter Notebook (or any Python IDE)
 
-## How to Run the Project
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/mastering-data-analysis-with-pandas.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd mastering-data-analysis-with-pandas
